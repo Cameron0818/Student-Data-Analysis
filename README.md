@@ -1,4 +1,4 @@
-# Student Data Analysis System
+# Student Data Analysis
 
 A C program that processes curricular and extracurricular student data from different file formats to generate performance reports.
 
