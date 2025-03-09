@@ -33,11 +33,3 @@ This project was developed as part of UVIC's course requirement. The original sp
   - Handles different data formats and structures
   - Boolean conversion for YAML text fields
 
-
-## Requirements
-
-- C compiler (GCC recommended)
-- POSIX-compliant operating system
-- Input files
-  - a1-data-curricular.csv
-  - a1-data-extracurricular.yaml
